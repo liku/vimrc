@@ -420,6 +420,7 @@ let g:user_zen_settings = {
   \  },
  \}
 
+
 nmap <F9> :SCCompile<cr>
 nmap <F10> :SCCompileRun<cr>
 let Tlist_Ctags_Cmd = '/usr/local/bin/ctags'
